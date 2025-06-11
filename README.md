@@ -176,7 +176,7 @@ We ran statistical tests and modeling techniques to confirm or refute data-drive
 
 ## Access Project Materials
 
-- [Jupyter Notebook](link)  
+- [Jupyter Notebook](https://github.com/Marilyn2961/Box-Office-Performance-Analysis/blob/master/Box_Office_Performance_Analysis.ipynb)  
 - [Dashboard on Tableau](https://public.tableau.com/app/profile/rose.miriti/viz/Phase_2_17494760146190/Dashboard?publish=yes)  
 - [Presentation Slides](https://github.com/Marilyn2961/Box-Office-Performance-Analysis/blob/master/Presentation.pdf)
 
